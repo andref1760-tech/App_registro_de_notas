@@ -1,6 +1,6 @@
 # Registro de Notas (Registro_nota_py)
 
-Este proyecto es una aplicación de escritorio desarrollada en **Python** para la gestión y registro de calificaciones/notas, cursos y bases de datos. Utiliza interfaces gráficas diseñadas con Qt (`.ui`) y una base de datos relacional alimentada por un script SQL.
+Este proyecto es una aplicación de escritorio desarrollada en **Python** para la gestión y registro de calificaciones/notas y bases de datos con cursos una tabla de cursos ya creada. Utiliza interfaces gráficas diseñadas con Qt (`.ui`) y una base de datos relacional alimentada por un script SQL.
 
 ---
 
