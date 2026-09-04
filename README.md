@@ -37,8 +37,8 @@ Registro_nota_py/
 Antes de ejecutar el proyecto, asegúrate de contar con los siguientes elementos instalados:
 
 * **Python 3.x**
-* Servidor de base de datos (por ejemplo, **MySQL / MariaDB** o **SQLite**, según el contenido de `DATA.sql`)[cite: 1].
-* **PyQt5** o **PySide2 / PySide6** (necesario para cargar/procesar las interfaces de la carpeta `ui/`)[cite: 1].
+* Servidor de base de datos (por ejemplo, **MySQL o **SQLite**, según el contenido de `DATA.sql`).
+* **PyQt5** / PySide6** (necesario para cargar/procesar las interfaces de la carpeta `ui/`).
 
 ---
 
